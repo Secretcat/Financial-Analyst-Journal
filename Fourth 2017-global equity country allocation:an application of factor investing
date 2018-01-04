@@ -1,0 +1,32 @@
+we apply factor-investing principles to four factors-value,small capitalization(size),high momentum, and low risk-
+using country index funds instead of individual stocks to produce a better risk-return trade-off than the 
+capitalization-weighted world market portfolio.
+
+we used country dollar total return indexes from MSCI for 23 developed markets and 21 emerging markets.
+Either ETFs or futures contracts exist for all markets.
+
+For the world market portifolio, we used the MSCI All-Country World Index(ACWI).
+
+to construct the global value portfolios, we ranked all countries by a composite valuation indicator combining a country's
+price-to-earnings, price-to-book, and price-to-cash-flow ratios along with dividend yield.
+
+we formed three portofolios, each containing one-third of the 44 countries, and calculated the monthly returns over the
+next 12 months.
+
+small-cap portfolio; high-momentum; low-beta 
+
+in the first stage of factor portfolio construction process, we chose the countries with the highest factor exposure.
+
+in the second stage, our objective in the single- and multifactor portfolio construction process was to create mean-
+variance-efficient factor portifolio in the presence of estimation risk.
+
+we created factor portfolios using:
+1, capitalization weights-equal(EW)
+2, inverse variance(IV)
+3, minimum variance(MinVar)
+4,maximum diversification portfolio(MDP) weights
+
+
+capitalization weighting(CW) is the most commonly used index construction methodology, despite its well-known shortcomings
+of excessive concentration and inferior risk-adjusted performance
+
